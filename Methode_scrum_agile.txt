@@ -1,0 +1,128 @@
+Méthode Scrum agile :
+
+1 : Qu’est ce que la méthode Scrum ? Quel est son objectif ?
+
+La méthodologie Scrum est une méthode agile consacrée à la gestion de projet
+
+Son objectif est d'améliorer la productivité des équipes, tout en permettant une optimisation du produit grâce à des feedbacks réguliers du marché.
+
+
+2 : La méthode Scrum repose sur des valeurs, des principes et des piliers. Que sont-ils ? Expliquez les.
+
+Les 5 valeurs :
+
+FOCUS : Pour suivre le rythme de réalisation, les membres de l’équipe devront être focus pendant le Sprint et à l’accomplissement du Sprint Goal
+    
+OUVERTURE : Les membres de l’équipe doivent être ouvert à la collaboration avec d’autres équipes ou personnes et au critiques constructives qui permettent l’amélioration continue
+    
+RESPECT : Le respect entre les différents membres de l’équipe (équipement de développement, product owner, Scrum Master etc) est essentiel pour avancer dans la même direction. Dans le cadre de travail Scrum, on parle de respect des personnes, de leurs compétences et expériences ; du cadre Scrum et des responsabilités de chaque rôle.
+    
+COURAGE : De dire non ! Je ne sais pas ! Appeler à l’aide ! Refuser de créer des fonctionnalités sans valeur pour l’utilisateur final ; courage de refaire ce qui avait été fait ; courage de changer de voie, ou d’opinion ; de défier le statuquo
+    
+ENGAGEMENT : A donner le mieux de soi même dans chaque activité ; à aider les autres membres de l’équipe ; à atteindre le Sprint Goal
+
+Les 6 principes : 
+
+PROCESSUS EMPIRIQUE : Une équipe qui travaille de manière empirique est une équipe qui agit et prend des décisions sur la base de faits, d’expériences, d’observations et de preuves.
+
+AUTO-ORGANISATION : Une équipe auto-organisée dispose d’un certain niveau de pouvoir décisionnel, prend possession de sa façon de travailler, ne rend pas de compte à un chef de projet. Et enfin explique au Product Owner et au Scrum Master comment elle compte s’organiser et s’améliorer pour atteindre les objectifs des prochains sprints.
+
+COLLABORATION : Collaborer, c’est maintenir la discussion avec les utilisateurs finaux du produit et le Product Owner. C’est prendre en compte les remarques et retours d’expérience du client et des parties prenantes afin d’améliorer le produit. C’est travailler main dans la main, tous ensemble, afin de livrer un produit 100% personnalisé et adapté pour le besoin du client, qui répond aux exigences de qualité.
+
+PRIORISATION BASEE SUR LA VALEUR : L’équipe Scrum doit donc constamment réévaluer l’importance et la valeur associée à chaque tâche dans le backlog, afin de les prioriser intelligemment.
+
+DELIMITE DANS LE TEMPS : Le temps est sans doute la ressource la plus précieuse que nous avons. Scrum l’a bien compris, et chaque événement doit se dérouler dans un cadre précis et dans un temps limité que l’on ne peut pas dépasser. Cela permet d’éviter les réunions projets qui s’éternisent, et donc permet de maintenir le niveau d’efficience de l’équipe.
+
+DEVELOPPEMENT ITERATIF : Plutôt que de développer un produit dans son entièreté en une fois, on développe les fonctionnalités et on les livre les unes après les autres. A chaque cycle, l’équipe Scrum va chercher à s’améliorer, grâce à la fameuse rétrospective agile.
+
+Les 3 piliers : 
+
+LA TRANSPARENCE : 
+Pour faire preuve de transparence au quotidien, les membres de l’équipe doivent se faire confiance et avoir le courage d’apporter de bonnes comme de mauvaises nouvelles.
+Les objectifs du projet sont clairement partagés et les utilisateurs finaux du produit partagent leurs impressions et ressentis sur le produit, que ceux-ci soient bons ou mauvais.
+Les fonctionnalités (user stories) et la notion de definition of done doivent être explicites pour tous.
+Enfin, la progression du projet doit être accessible et visible pour tous ceux qui souhaitent avoir cette information.
+Personne n’a d’agenda caché. La transparence règne.
+
+L'INSPECTION : 
+L’inspection ne se limite d’ailleurs pas à la qualité des livrables mais également aux relations humaines, aux processus, aux méthodes de travail, aux pratiques de l’équipe, tout ceci dans une optique d’amélioration continue.
+Les inspections peuvent donner lieu à des axes d’améliorations, qui peuvent être remontés lors des différents événements Scrum, et plus particulièrement lors de la rétrospective.
+
+L'ADAPTATION :
+Dans une optique de constamment s’améliorer que de répondre aux évolutions des besoins du client.
+Ainsi, les axes d’amélioration remontés en rétrospective doivent le plus rapidement possible donner lieu à des changements dans l’organisation de l’équipe, sa manière de travailler, ses processus, etc.
+Il est recommandé de se poser la question suivante régulièrement : « Sommes-nous dans une meilleure situation qu’hier ? »
+L’équipe Scrum doit également s’adapter aux évolutions du besoin exprimés par le client, aux évolutions du marché ou encore aux évolutions technologiques.
+La priorisation des user stories peut ainsi évoluer, le backlog peut être retravaillé par le Product Owner, certaines fonctionnalités étant abandonnées au profit de nouvelles.
+
+
+3 : Toute équipe de méthodes agiles est auto organisée. Comment se compose une équipe Scrum ? Expliquez leur rôle et leur importance.
+
+La composition d'une équipe SCRUM : 
+
+Un PRODUCT OWNER (PO) : Son rôle est d’être un « stratège »  du produit en identifiant les bonnes fonctionnalités. il est dédié à définir le produit répondant aux attentes de l’utilisateur.
+
+Une EQUIPE DE DEV & TEST : l'équipe de dev & de test sont engagées à réaliser le meilleur produit possible nécessaire pour l’exécution du produit.
+
+Un SCRUM MASTER (SM) : Au service de l’équipe, il oeuvre à la protéger des interférences externes, à réduire les obstacles et à raccourcir la boucle de feedback. Il facilite aussi les échanges et l’amélioration de l’équipe Scrum, c’est son but premier.
+
+Toute l'équipe est importante et même indispensable à la réalisation du projets via la méthode scrum.
+
+
+4 : Un projet organisé par la méthode Scrum est rythmé par un ensemble d'événements. Énoncez ces différents événements et expliquez les. 
+
+SPRINT :
+Un Sprint est une itération. Il s'agit d'une période de 1 à 4 semaines maximum pendant laquelle une version terminée et utilisable du produit est réalisée. Un nouveau Sprint commence dès la fin du précédent. Chaque Sprint implique un objectif et une liste de fonctionnalités à réaliser.
+
+PLANIFICATION SPRINT
+Les tâches à accomplir pendant le Sprint sont déterminées par l'ensemble de l'équipe Scrum lors du meeting de planification du Sprint. Celle-ci se limite à 8 heures pour les Sprints d'un mois. Elle permet à l'équipe d'établir les problématiques qu'elle va traiter au cours de ce Sprint.
+
+REVUE SPRINT
+Il s'agit du bilan du Sprint réalisé. Une fois le Sprint terminé, l'équipe Scrum et les parties prenantes se réunissent pour valider ce qui a été accompli. Cette réunion dure 4 heures maximum.
+
+RETROSPECTIVE SPRINT
+La rétrospective est interne à l'équipe Scrum et dure 3 heures pour un Sprint d'un mois. Elle vise l’adaptation aux changements et l'amélioration continue du processus de réalisation. L'équipe se sert de la rétrospective pour passer en revue le Sprint terminé et déterminer ce qui a bien fonctionné et ce qu'il faut améliorer.
+
+MELEE QUOTIDIENNE
+Cette réunion journalière de 15 minutes est très importante. Elle se fait debout, afin d'éviter de s'éterniser. C’est ce qui explique que l’on parle de “stand-up meeting”. Ce meeting a pour but de faire un point sur la progression quotidienne du Sprint. Cette rencontre permet à l'équipe de synchroniser ses activités et de faire un plan pour les prochaines 24 heures.
+La mêlée a lieu à la même heure et au même endroit chaque jour. Chaque membre de l'équipe de développement doit répondre à ces trois questions :
+Qu'est-ce qu'il a réalisé la veille ?
+Qu'est-ce qu'il va accomplir aujourd'hui ?
+Quels sont les obstacles qui le retardent ?
+
+
+5 : Donnez les artefacts et outils de la méthode Scrum. Les artefacts désignent des des produits ayant subi des transformations durant la gestion du projet.
+
+PRODUCT BACKLOG
+Il s'agit d'une liste hiérarchisée des exigences initiales du client concernant le produit à réaliser. Ce document évolue sans cesse durant le projet, en fonction des besoins du client. Le product owner est responsable du product backlog.
+
+SPRINT BACKLOG
+C'est le plan détaillé de la réalisation de l'objectif du Sprint, défini lors de la réunion de planification du Sprint. Le Sprint backlog est mis à jour régulièrement par l'équipe, afin d'avoir une vision précise de la progression du Sprint.
+
+L'INCREMENT PRODUIT
+Il s'agit de l'ensemble des éléments terminés du product backlog pour le Sprint en cours, ainsi que ceux des Sprints précédents. L'incrément doit fonctionner et être utilisable.
+
+LE BURNDOWN CHART
+Ce graphique simple indique l'état d'avancement dans la réalisation des tâches du Sprint backlog. Il s’agit du tracé de la charge de travail restante généralement exprimée en heures en fonction du temps, exprimé en jours. Le Burndown Chart est actualisé tous les jours par le Scrum Master après le meeting Scrum.
+
+
+6 : Définissez de manière claire et concise, les mots clés suivants : user story, story points, la DoD, un Burndown chart et la méthode Kanban.
+
+USER STORY
+La “user story”, ou US, est un “scénario utilisateur”. Elle s’apparente à une fiche qui récapitule les spécificités de la tâche à réaliser ou de la fonctionnalité à développer. Elle a pour objectif de réduire les risques de mauvaises interprétations du projet. On dit parailleurs qu’une US est “estimée”. Tous les scénarios utilisateurs doivent ainsi s’estimer avant intégration dans le Sprint, sinon elles restent dans le backlog.
+
+STORY POINTS
+Les “story points” sont des notes données à chaque US. L’équipe attribue ainsi un nombre de SP à chaque user story, en fonction de sa complexité. Il s’agit donc d’une unité de mesure relative à la quantité de travail et aux nombres de tâches à effectuer, croisées aux capacités de l’équipe, aux incertitudes et aux risques inhérents à chaque tâche.
+
+LA DOD
+La “DoD”, “Definition of Done”, ou "Définition de Terminé” en français, fait référence à une liste de critères définis par l’équipe Scrum. Cette liste permet de déterminer quand une User Story est traitée.
+
+METHODE KANBAN
+La méthode Kanban fonctionne à partir d'un système de cartes. Elle a d'ailleurs été baptisée en référence à ce procédé. Kanban signifie étiquettes en langue japonaise. Les cartes ou étiquettes vont représenter les tâches à accomplir en vue de répondre à la commande d'un client.
+
+
+7 : Étant très impressionné par la puissance et l’efficacité de la méthode Scrum, vous décidez d’argumenter son utilisation aux autres étudiants.
+
+Scrum est la méthode la plus efficace pour les équipes qui créent et déploient souvent des produits, que ce soit des produits Scrum « traditionnels » (ex. : code, nouvelles fonctionnalités) ou plus inhabituels (ex. : campagnes marketing, ressources créatives).
+
+Les équipes qui optent pour la structure Scrum gagnent en agilité et en flexibilité. Elle contribue à renforcer la collaboration au sein des équipes et les aide à atteindre leurs objectifs plus efficacement. Par ailleurs, les équipes Scrum savent en permanence sur quoi elles travaillent : elles accomplissent des tâches de leur backlog produit et ont une idée claire de leurs objectifs, car elles se sont concertées sur la définition d’un travail dit terminé.
